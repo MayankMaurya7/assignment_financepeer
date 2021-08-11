@@ -14,9 +14,21 @@ username: "mayank2",
 password: "ok123456",
 }
 
-b. Once logged in successfully, Application will take user to file upload dashboard 1. Here user can choose a file to upload , note: file type should be json or else Application will throw an alert. 2. once a json file is chosen and upload button hit , Application takes user to Display file page where a hardcoded file is displayed . 3. User can Navigate to Display file page using the button given on top of the page. 4. User can Signout using the button given on top of the page.
+b. Once logged in successfully, Application will take user to file upload dashboard
 
-c. After landing to Display file page , user can view the data displayed in an organised manner 1. User can Navigate to Upload file page using the button given on top of the page. 1. User can Signout using the button given on top of the page.
+1. Here user can choose a file to upload , note: file type should be json or else Application will throw an alert.
+
+2. once a json file is chosen and upload button hit , Application takes user to Display file page where a hardcoded file is displayed .
+
+3. User can Navigate to Display file page using the button given on top of the page.
+
+4. User can Signout using the button given on top of the page.
+
+c. After landing to Display file page , user can view the data displayed in an organised manner
+
+1. User can Navigate to Upload file page using the button given on top of the page.
+
+2. User can Signout using the button given on top of the page.
 
 ## Instructions
 
